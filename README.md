@@ -35,7 +35,7 @@ _Make me italicized_
 
 [Turn this entire line of text into a link that goes to hstat.org](hstat.org)
 
-Turn this entire line of text into code
+<pre><code>Turn this entire line of text into code</code></pre>
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
